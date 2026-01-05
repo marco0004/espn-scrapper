@@ -19,13 +19,12 @@ Instalación
 Clona este repositorio o descarga el código.
 
 Instala las dependencias:
-```
-Bash
+```Bash
 pip install playwright beautifulsoup4 pandas
 ```
 Instala los navegadores necesarios para Playwright:
 
-```ash
+```Bash
 playwright install chromium
 ```
 🚀 Configuración y Uso
